@@ -4,10 +4,6 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * @authors Taimoor Mirza & Husnain Ajmal
- * @RollNumbers 14-4520 & 14-4491
- * @Assignment 1
- * @Question 1
  * @Description Hangman class 
  * */
 
