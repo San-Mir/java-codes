@@ -1,10 +1,6 @@
 package HangManApplication;
 
 /**
- * @authors Taimoor Mirza & Husnain Ajmal
- * @RollNumbers 14-4520 & 14-4491
- * @Assignment 1
- * @Question 1
  * @Description HangmanLexicon generates a 10 word word list which 
  * 				is used in the game.
  * */
