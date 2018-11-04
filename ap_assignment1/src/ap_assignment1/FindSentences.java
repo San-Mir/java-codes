@@ -1,10 +1,6 @@
 package ap_assignment1;
 
 /**
- * @authors Taimoor Mirza & Husnain Ajmal
- * @RollNumbers 14-4520 & 14-4491
- * @Assignment 1
- * @Question 2
  * @Description Program finds out a sentence/consecutive sequence of sentences 
  * 				which have the size min <= length =< max where @min and @max are 
  * 				the extreme bounds.
