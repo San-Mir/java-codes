@@ -12,9 +12,6 @@ import java.util.concurrent.Executors;
 
 
 /**
- * @author Taimoor Mirza
- * @rollNumber 14-4520
- * Assignment #2
  * Descrption: Driver class of the assignment. 
  */
 
